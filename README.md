@@ -41,3 +41,17 @@ eb open
 ```
 eb console
 ```
+
+
+#### Nuke it
+
+When you're done playing around and want to destroy everything that was created:
+
+```
+eb terminate --all
+```
+
+You will be prompted to:
+
+* Confirm the action by typing the full name of the app
+
