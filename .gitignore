@@ -55,3 +55,11 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+# AWS Python Env for EB CLI
+aws/
