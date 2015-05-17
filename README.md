@@ -1,6 +1,9 @@
 ### Elastic Beanstalk Deployment
 
-Assuming [eb-cli](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html) is installed:
+Assuming:
+
+* [eb-cli](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html) is installed.
+* You have access to the ID and Secret for an IAM with permissions on Elastic Beanstalk.
 
 
 #### Initialize the app
