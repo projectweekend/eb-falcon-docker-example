@@ -60,7 +60,5 @@ target/
 # AWS Python Env for EB CLI
 aws/
 
-# Elastic Beanstalk Files
-.elasticbeanstalk/*
-!.elasticbeanstalk/*.cfg.yml
-!.elasticbeanstalk/*.global.yml
+
+
